@@ -1,5 +1,4 @@
-# Impact Analysis of Speed Reduction in Urban Areas  
-*Analisi dell'Impatto della Riduzione di Velocità nelle Aree Urbane*
+# Impact Analysis of Speed Reduction in Urban Areas
 
 This project is part of my **Bachelor's thesis in Statistical Sciences** at the **University of Bologna**.  
 It aims to analyze the effects of speed reduction policies in urban environments through **statistical analyses and simulations**.
@@ -8,6 +7,8 @@ In recent years, many cities have adopted speed limit reductions (e.g., from 50 
 This project evaluates these impacts using data from urban areas, combining exploratory analysis, regression models, and simulated traffic scenarios.
 
 ---
+
+# Analisi dell'Impatto della Riduzione di Velocità nelle Aree Urbane
 
 Questo progetto fa parte della mia **tesi triennale in Scienze Statistiche** presso l'**Università di Bologna**.  
 Si propone di analizzare gli effetti delle politiche di riduzione della velocità nei contesti urbani attraverso **analisi statistiche e simulazioni**.
